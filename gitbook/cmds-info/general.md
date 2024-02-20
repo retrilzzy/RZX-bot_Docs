@@ -84,11 +84,61 @@ layout:
 
 <details>
 
-<summary><code>/embed-pro</code> - Полезный инструмент для создания эмбед сообщений</summary>
+<summary><code>/message-maker-lite</code> - Полезный инструмент для создания продвинутых cообщений (упрошенная версия)</summary>
 
 **Пример:**
 
 `/embed-pro title: Это эмбед description: Да, это так color: purple text: @Emika#2626`
+
+</details>
+
+<details>
+
+<summary><code>/message-maker-pro</code> - Полезный инструмент для создания продвинутых сообщений</summary>
+
+Все визуально и просто
+
+</details>
+
+<details>
+
+<summary><code>purge</code> - Очистка n количества сообщений в текущем канале</summary>
+
+**Использование:**
+
+**`purge <количество сообщений>`**
+
+**Пример:**
+
+**`!purge 5`**
+
+</details>
+
+<details>
+
+<summary><code>purge_until</code> - Очистить сообщения в канале до заданного message_id</summary>
+
+**Использование:**
+
+`purge_until <id сообщения>`
+
+**Пример:**
+
+`!purge_until 1200619381080731648`
+
+</details>
+
+<details>
+
+<summary><code>purge_user</code> - Очистить все сообщения &#x3C;Пользователя> в каждом канале за последние [n=5] минут</summary>
+
+**Использование:**
+
+`purge_user <упоминание участника> [За последние сколько минут (по умолчанию 5)]`
+
+**Пример:**
+
+`!purge_user @Retrilzzy 10`
 
 </details>
 
