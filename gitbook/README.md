@@ -14,6 +14,8 @@ layout:
 
 # 🤩 Welcome
 
+## <img src=".gitbook/assets/image (4).png" alt="" data-size="line"> **RZX-bot**
+
 {% hint style="success" %}
 ### Добавь бота на свой Discord сервер! [Клик](https://discord.com/oauth2/authorize?client\_id=1089857134323306526\&permissions=412656069750\&scope=applications.commands%20bot)
 
