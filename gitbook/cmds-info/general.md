@@ -142,6 +142,10 @@ layout:
 
 </details>
 
+{% hint style="warning" %}
+Для использования команд `purge, purge_until, purge_user` необходима роль с разрешением **"Выгонять участников"** или вы должны быть **администратором**
+{% endhint %}
+
 <details>
 
 <summary><code>user-info</code> - Узнать информацию о себе или участнике</summary>
