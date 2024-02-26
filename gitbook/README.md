@@ -1,6 +1,6 @@
 # 🤩 Welcome
 
-## &#x20;<img src=".gitbook/assets/image (6).png" alt="" data-size="line"> **RZX-bot**
+## &#x20;<img src=".gitbook/assets/image (6) (1).png" alt="" data-size="line"> **RZX-bot**
 
 {% hint style="success" %}
 #### Добавь бота на свой Discord сервер! [Клик](https://invite.rzx.ehd.lol/)

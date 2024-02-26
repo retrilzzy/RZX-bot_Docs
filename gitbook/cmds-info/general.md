@@ -88,7 +88,9 @@ layout:
 
 **Пример:**
 
-`/embed-pro title: Это эмбед description: Да, это так color: purple text: @Emika#2626`
+`/embed-pro title: Это эмбед description: Да, это так color: blue text: @RZX-bot#2626`
+
+![](<../.gitbook/assets/image (5).png>)&#x20;
 
 </details>
 
@@ -97,6 +99,8 @@ layout:
 <summary><code>/message-maker-pro</code> - Полезный инструмент для создания продвинутых сообщений</summary>
 
 Все визуально и просто
+
+![](<../.gitbook/assets/image (4).png>)
 
 </details>
 
