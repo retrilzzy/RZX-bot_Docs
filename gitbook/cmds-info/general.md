@@ -48,16 +48,6 @@ layout:
 
 </details>
 
-<details>
-
-<summary><code>/manage-modules</code> - Управление модулями бота</summary>
-
-**Пример:**
-
-`/manage-modules module: economy action: отключить`
-
-</details>
-
 {% hint style="warning" %}
 Для использования команд`/manage-prefix /manage-modules /economy-settings` необходима роль с разрешением **"Управление сервером"** или вы должны быть **администратором**
 {% endhint %}
@@ -96,7 +86,7 @@ layout:
 
 <details>
 
-<summary><code>/message-maker-pro</code> - Полезный инструмент для создания продвинутых сообщений</summary>
+<summary><code>/message-maker-pro</code> - Полезный инструмент для создания продвинутых сообщений (продвинутая версия)</summary>
 
 Все визуально и просто
 
@@ -175,7 +165,7 @@ layout:
 
 <details>
 
-<summary><code>/waifu-pics, /nekos-life, /waifu-im, /random-waifu, /gif</code> – Изображения/гифки в аниме-стиле</summary>
+<summary><code>/waifu-pics, /nekos-life, /waifu-im, /random-waifu, /gif</code> – Изображения/гифки в аниме-жанре</summary>
 
 **Примеры:**
 
