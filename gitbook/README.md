@@ -1,6 +1,6 @@
 # 🤩 Welcome
 
-## &#x20;<img src=".gitbook/assets/image (6) (1).png" alt="" data-size="line"> **RZX-bot**
+## &#x20;<img src=".gitbook/assets/7e0c66cb718e13738003164391b19ac7.webp" alt="" data-size="line"> **RZX-bot**
 
 Discord-бот с большим количеством команд, которые заполнят ваши потребности в вашем Discord сервере.
 
