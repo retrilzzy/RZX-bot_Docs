@@ -64,6 +64,18 @@ layout:
 
 <details>
 
+<summary><code>img-kandinsky</code> - ИИ генерациz изображений</summary>
+
+**Использование:**\
+`img-kandinsky <промпт>`
+
+**Пример:**\
+`!img-kandinsky breathtaking night street of Tokyo, cars, neon lights. award-winning, professional, highly detailed`
+
+</details>
+
+<details>
+
 <summary><code>/magic-ball, /nekos-ball</code> – Один верный ответ на твой вопрос (но это не точно)</summary>
 
 **Пример:**
