@@ -52,6 +52,8 @@ layout:
 Для использования команд`/manage-prefix /manage-modules /economy-settings` необходима роль с разрешением **"Управление сервером"** или вы должны быть **администратором**
 {% endhint %}
 
+***
+
 <details>
 
 <summary><code>/image-search</code> – Поиск изображения по текстовому запросу</summary>
@@ -71,6 +73,8 @@ layout:
 
 **Пример:**\
 `!img-kandinsky breathtaking night street of Tokyo, cars, neon lights. award-winning, professional, highly detailed`
+
+&#x20;![](<../.gitbook/assets/image (8).png>)
 
 </details>
 
@@ -105,6 +109,8 @@ layout:
 ![](<../.gitbook/assets/image (4).png>)
 
 </details>
+
+***
 
 <details>
 
@@ -152,6 +158,8 @@ layout:
 Для использования команд `purge, purge_until, purge_user` необходима роль с разрешением **"Выгонять участников"** или вы должны быть **администратором**
 {% endhint %}
 
+***
+
 <details>
 
 <summary><code>user-info</code> - Узнать информацию о себе или участнике</summary>
@@ -177,7 +185,7 @@ layout:
 
 <details>
 
-<summary><code>/waifu-pics, /nekos-life, /waifu-im, /random-waifu, /gif</code> – Изображения/гифки в аниме-жанре</summary>
+<summary><code>/waifu-pics, /nekos-life, /waifu-im, /random-waifu, /gif</code> – Изображения/гифки в аниме жанре</summary>
 
 **Примеры:**
 
