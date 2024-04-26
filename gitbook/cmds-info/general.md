@@ -24,7 +24,7 @@ layout:
 
 \
 **`/команда`**- вызов через слэш(/)\
-**`!команда`** - вызов через префикс (по умолчанию `!`, можно изменить при помощи _`/manage-prefix`_)\
+**`!команда`** - вызов через префикс (по умолчанию `!`, можно изменить при помощи _`/manage-prefix`_ или через [панель управления](https://dash.rzx-bot.top))\
 **`команда`** - вызов через слэш и префикс
 {% endhint %}
 
@@ -49,7 +49,7 @@ layout:
 </details>
 
 {% hint style="warning" %}
-Для использования команд`/manage-prefix /manage-modules /economy-settings` необходима роль с разрешением **"Управление сервером"** или вы должны быть **администратором**
+Для использования команд`/manage-prefix /economy-settings` необходима роль с разрешением **"Управление сервером"** или вы должны быть **администратором**
 {% endhint %}
 
 ***
@@ -66,7 +66,7 @@ layout:
 
 <details>
 
-<summary><code>img-kandinsky</code> - ИИ генерациz изображений</summary>
+<summary><code>img-kandinsky</code> - ИИ генерации изображений</summary>
 
 **Использование:**\
 `img-kandinsky <промпт>`
@@ -150,7 +150,7 @@ layout:
 
 **Пример:**
 
-`!purge_user @Retrilzzy 10`
+`!purge_user @retrilzzy 10`
 
 </details>
 
@@ -170,7 +170,7 @@ layout:
 
 **Пример:**
 
-`!user-info @Retrilzzy`
+`!user-info @retrilzzy`
 
 </details>
 
@@ -185,7 +185,7 @@ layout:
 
 <details>
 
-<summary><code>/waifu-pics, /nekos-life, /waifu-im, /random-waifu, /gif</code> – Изображения/гифки в аниме жанре</summary>
+<summary><code>/waifu-pics, /nekos-life, /waifu-im</code> – Изображения/гифки в аниме стиле</summary>
 
 **Примеры:**
 
