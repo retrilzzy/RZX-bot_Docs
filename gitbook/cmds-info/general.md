@@ -32,8 +32,7 @@ layout:
 
 <summary><code>/manage-prefix</code> - Установите свой префикс для вашего сервера</summary>
 
-**Пример:**
-
+**Пример:**\
 `/manage-prefix prefix: ?`
 
 </details>
@@ -42,8 +41,7 @@ layout:
 
 <summary><code>/economy-settings</code> - Управление модулем экономики</summary>
 
-**Пример:**
-
+**Пример:**\
 `/economy-settings settings: перевод и принятие средств с других серверов action: разрешить`
 
 </details>
@@ -56,34 +54,32 @@ layout:
 
 <details>
 
-<summary><code>/image-search</code> – Поиск изображения по текстовому запросу</summary>
+<summary><code>/image-search</code> - Поиск изображения по текстовому запросу</summary>
 
-**Пример:**
-
+**Пример:**\
 `/image-search query: apple`
 
 </details>
 
 <details>
 
-<summary><code>img-kandinsky</code> - ИИ генерации изображений</summary>
+<summary><code>img-kandinsky img-sdxl</code> - ИИ генерации изображений</summary>
 
 **Использование:**\
-`img-kandinsky <промпт>`
+`img-kandinsky <промпт> | img-sdxl <промпт>`
 
 **Пример:**\
 `!img-kandinsky breathtaking night street of Tokyo, cars, neon lights. award-winning, professional, highly detailed`
 
-&#x20;![](<../.gitbook/assets/image (8).png>)
+<img src="../.gitbook/assets/kandinsky_output.png" alt="" data-size="original">
 
 </details>
 
 <details>
 
-<summary><code>/magic-ball, /nekos-ball</code> – Один верный ответ на твой вопрос (но это не точно)</summary>
+<summary><code>/magic-ball, /nekos-ball</code> - Один верный ответ на твой вопрос (но это не точно)</summary>
 
-**Пример:**
-
+**Пример:**\
 `/magic-ball question: Это вопрос?`
 
 </details>
@@ -92,11 +88,10 @@ layout:
 
 <summary><code>/message-maker-lite</code> - Полезный инструмент для создания продвинутых cообщений (упрошенная версия)</summary>
 
-**Пример:**
+**Пример:**\
+`/message-maker-lite title: Это эмбед description: Да, это так color: blue text: @RZX-bot#2626`
 
-`/embed-pro title: Это эмбед description: Да, это так color: blue text: @RZX-bot#2626`
-
-![](<../.gitbook/assets/image (5).png>)&#x20;
+<img src="../.gitbook/assets/message-maker-lite.png" alt="" data-size="original">
 
 </details>
 
@@ -106,7 +101,7 @@ layout:
 
 Все визуально и просто
 
-![](<../.gitbook/assets/image (4).png>)
+<img src="../.gitbook/assets/message-maker-pro.png" alt="" data-size="original">
 
 </details>
 
@@ -116,12 +111,10 @@ layout:
 
 <summary><code>purge</code> - Очистка n количества сообщений в текущем канале</summary>
 
-**Использование:**
-
+**Использование:**\
 **`purge <количество сообщений>`**
 
-**Пример:**
-
+**Пример:**\
 **`!purge 5`**
 
 </details>
@@ -130,12 +123,10 @@ layout:
 
 <summary><code>purge_until</code> - Очистить сообщения в канале до заданного message_id</summary>
 
-**Использование:**
-
+**Использование:**\
 `purge_until <id сообщения>`
 
-**Пример:**
-
+**Пример:**\
 `!purge_until 1200619381080731648`
 
 </details>
@@ -144,12 +135,10 @@ layout:
 
 <summary><code>purge_user</code> - Очистить все сообщения &#x3C;Пользователя> в каждом канале за последние [n=5] минут</summary>
 
-**Использование:**
-
+**Использование:**\
 `purge_user <упоминание участника> [За последние сколько минут (по умолчанию 5)]`
 
-**Пример:**
-
+**Пример:**\
 `!purge_user @retrilzzy 10`
 
 </details>
@@ -164,12 +153,10 @@ layout:
 
 <summary><code>user-info</code> - Узнать информацию о себе или участнике</summary>
 
-**Использование:**
-
+**Использование:**\
 `user-info [упоминание участника]`
 
-**Пример:**
-
+**Пример:**\
 `!user-info @retrilzzy`
 
 </details>
@@ -185,12 +172,10 @@ layout:
 
 <details>
 
-<summary><code>/waifu-pics, /nekos-life, /waifu-im</code> – Изображения/гифки в аниме стиле</summary>
+<summary><code>/waifu-pics, /nekos-life, /waifu-im</code> - Изображения/гифки в аниме стиле</summary>
 
-**Примеры:**
-
-`/waifu-im tag: waifu tag2: uniform`
-
+**Примеры:**\
+`/waifu-im tag: waifu tag2: uniform`\
 `/nekos-life tag: neko`
 
 </details>
