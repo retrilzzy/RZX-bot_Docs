@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🤩 Welcome](README.md)
+* [🤟 Welcome](README.md)
 
 ## Информация о командах <a href="#cmds-info" id="cmds-info"></a>
 
